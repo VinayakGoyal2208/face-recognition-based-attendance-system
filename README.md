@@ -35,13 +35,13 @@ The "Automated Attendance System with Face Recognition" is a sophisticated proje
 ## APP GUI
 # User Interface
 ![Alt text](https://github.com/VinayakGoyal2208/face-recognition-based-attendance-system-in-RealTimeDatabase/blob/main/RealTimeDatabase/Resources/background.png)
-# Face found
+# Camera active
 ![Alt text](https://github.com/VinayakGoyal2208/face-recognition-based-attendance-system-in-RealTimeDatabase/blob/main/RealTimeDatabase/Resources/Modes/1.png)
-# Attendance marked
+# Face found
 ![Alt text](https://github.com/VinayakGoyal2208/face-recognition-based-attendance-system-in-RealTimeDatabase/blob/main/RealTimeDatabase/Resources/Modes/2.png)
-# Trying to re-take the Attendance
+# Attendance marked
 ![Alt text](https://github.com/VinayakGoyal2208/face-recognition-based-attendance-system-in-RealTimeDatabase/blob/main/RealTimeDatabase/Resources/Modes/3.png)
-# Error
+# Trying to re-take Attendance
 ![Alt text](https://github.com/VinayakGoyal2208/face-recognition-based-attendance-system-in-RealTimeDatabase/blob/main/RealTimeDatabase/Resources/Modes/4.png)
 
 
@@ -58,6 +58,26 @@ The "Automated Attendance System with Face Recognition" is a sophisticated proje
 
 - **Scalability:** Can be adapted for various educational or corporate environments.
 
+## Requirements.txt
+
+- Install python-version
+  
+- Install pycharm application
+  
+- Open the repository in the application
+  
+- install following requirements using console(pip install _____ )
+  
+      i. python-opencv
+  
+     ii. face-recognition
+  
+    iii. firebase_admin
+  
+     iv. cvzone
+  
+      v. cv2
+
 ## Usage
 
 1. Clone this repository to your local machine.
@@ -66,8 +86,12 @@ The "Automated Attendance System with Face Recognition" is a sophisticated proje
 
 3. Configure the system settings and paths in the code to suit your specific environment.
 
-4. Run the project using `python GUI.py`.
+4. Connect database using google firebase
 
-## Author
-- [Chandrababu Namani](https://github.com/Chandrababu-Namani)
+5. copy database and storage url
+
+6. paste the url in the the desired place
+
+8. Run the project 
+
 
