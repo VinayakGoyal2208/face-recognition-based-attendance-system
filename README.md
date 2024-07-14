@@ -34,15 +34,15 @@ The "Automated Attendance System with Face Recognition" is a sophisticated proje
 
 ## APP GUI
 # User Interface
-![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/User%20Interface.png)
+![Alt text](https://github.com/VinayakGoyal2208/face-recognition-based-attendance-system-in-RealTimeDatabase/blob/main/RealTimeDatabase/Resources/background.png)
 # Face found
-![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/Face%20found.png)
+![Alt text](https://github.com/VinayakGoyal2208/face-recognition-based-attendance-system-in-RealTimeDatabase/blob/main/RealTimeDatabase/Resources/Modes/1.png)
 # Attendance marked
-![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/Attendance%20marked.png)
+![Alt text](https://github.com/VinayakGoyal2208/face-recognition-based-attendance-system-in-RealTimeDatabase/blob/main/RealTimeDatabase/Resources/Modes/2.png)
 # Trying to re-take the Attendance
-![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/recorded%20user.png)
+![Alt text](https://github.com/VinayakGoyal2208/face-recognition-based-attendance-system-in-RealTimeDatabase/blob/main/RealTimeDatabase/Resources/Modes/3.png)
 # Error
-![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/Error.png)
+![Alt text](https://github.com/VinayakGoyal2208/face-recognition-based-attendance-system-in-RealTimeDatabase/blob/main/RealTimeDatabase/Resources/Modes/4.png)
 
 
 
